@@ -2,7 +2,7 @@
 
 # Cairo Goldmine
 
-A COMPREHENSIVE, ANNOTATED LIST OF REPOSITORIES OF THE STARKNET ECOSYSTEM
+A COMPREHENSIVE, ANNOTATED LIST OF REPOSITORIES OF THE STARKNET ECOSYSTEM.
 
 This list is frequently updated in an automated way. The tags and ratings system are provisional and we are happy to receive your suggestions to improve it. If your repo is listed here, feel free to submit to us a more precise category/tagging or description.
 
