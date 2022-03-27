@@ -13,7 +13,7 @@ If you are a Cairo/Starknet learner, you should find your own repo in the Educat
 Visit us frequently, our ecosystem is growing exponentially... don't miss a thing!
 
 
-*Cairo Goldmine has been updated on March 30th! More than 15 new repos THIS week! 273 total repos!!*
+*Cairo Goldmine has been updated on March 20th! More than 15 new repos THIS week! 273 total repos!!*
 
 ## CONTENT
 
