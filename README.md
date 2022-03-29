@@ -13,7 +13,7 @@ If you are a Cairo/Starknet learner, you should find your own repo in the Educat
 Visit us frequently, our ecosystem is growing exponentially... don't miss a thing!
 
 
-*Cairo Goldmine has been updated on March 20th! More than 15 new repos THIS week! 273 total repos!!*
+*Cairo Goldmine has been updated on March 29th! Stay tuned for more repos next weekend! 275 total repos!!*
 
 ## CONTENT
 
@@ -184,10 +184,12 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [dvf-client-js](https://github.com/DeversiFi/dvf-client-js) - A js client library for DeversiFi - StarkWare orders - 18 stars
 * [mammoth_pool](https://github.com/andrepn/mammoth_pool) - Starknet pool to provide non-custodial liquidity to central limit order book market makers - 18 stars
 * [stardrop](https://github.com/kobigurk/stardrop) - StarDrop - anonymous rewards on StarkNet - 17 stars
+* [flashloan-starknet](https://github.com/tohrnii/flashloan-starknet) - Sample implementation of flashloans in Cairo - 16 stars
 * [juno](https://github.com/NethermindEth/juno) - StarkNet client implementation. - 16 stars
 * [VRF-StarkNet](https://github.com/0xNonCents/VRF-StarkNet) - Contracts for verifiable randomness on StarkNet - 15 stars
 * [sns](https://github.com/guiltygyoza/sns) - Starknet Name Service - 15 stars
 * [starkex-eth](https://github.com/dydxprotocol/starkex-eth) - library for interacting and parsing logs for the starkware smart contracts - 15 stars
+* [ricks-cairo-contracts](https://github.com/FawadHa1der/ricks-cairo-contracts) - OpenZeppelin Contracts written in Cairo for StarkNet - 12 stars
 * [go-starknet](https://github.com/tarrencev/go-starknet) - A Golang SDK for StarkNet - 11 stars
 * [sx-core](https://github.com/snapshot-labs/sx-core) - Snapshot X is an on-chain multi-governance client deployed on Starknet - 10 stars
 * [vyper-contracts](https://github.com/tserg/vyper-contracts) - Collection of Vyper contracts - 9 stars
@@ -238,7 +240,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [PM-system](https://github.com/Janmajayamall/PM-system) - Prediction market on twitter - 0 stars
 * [IBetYou-starknet](https://github.com/IBetYou/IBetYou-starknet) - No description, website, or topics provided. - 0 stars
 * [create-react-app-type-error-starknet](https://github.com/fracek/create-react-app-type-error-starknet) - No description, website, or topics provided. - 0 stars
-* [RicksInCairo](https://github.com/FawadHa1der/RicksInCairo) - RICKS implemenation in cairo - 0 stars
 * [vector-contracts](https://github.com/exp-table/vector-contracts) - A protocol for paying on Ethereum and minting on Starknet. - 0 stars
 * [cairo-ipfs](https://github.com/dewi-tim/cairo-ipfs) - Commit to CIDs of IPFS DAG objects with verified structure using Starknet - 0 stars
 * [starkpunks](https://github.com/ankitchiplunkar/starkpunks) - No description, website, or topics provided. - 0 stars
@@ -354,6 +355,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 * [EthDataMarketplace](https://github.com/nulven/EthDataMarketplace) - EthDataMarketplace - 23 stars
 * [crypts](https://github.com/abigger87/crypts) - A cairo port for Rari Capital Vaults - 8 stars
+* [zock](https://github.com/uqbar-dao/zock) - Cairo ZK Verifier in Nock - 8 stars
 * [starknet-rs](https://github.com/Genysys/starknet-rs) - No description, website, or topics provided. - 3 stars
 * [ReefNet](https://github.com/GigameshGarages/ReefNet) - (claims to use Starkware Veedo VDF - Cairo Goldmine Editor) - 2 stars
 * [ErgoNet](https://github.com/Semiott/ErgoNet) - Non Fungible Tokens for Privacy Preserving Proofs of Credit Scores - 1 stars
