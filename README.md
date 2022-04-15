@@ -333,7 +333,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo](https://github.com/ivanesmeral98/cairo) - No description, website, or topics provided. - 0 stars
 * [cairo-tutorial](https://github.com/jarednielsen/cairo-tutorial) - No description, website, or topics provided. - 0 stars
 * [CairoIntroduction](https://github.com/msaug/CairoIntroduction) - Personal notes on Introduction to Cairo, with (my) exercises correction - 0 stars
-* [cairo-setup](https://github.com/wackalabs/cairo-setup) - https://www.cairo-lang.org/docs/hello_starknet/index.html - 0 stars
+* [cairo-setup](https://github.com/wackalabs/cairo-setup) - Exercises - 0 stars
 * [ABM](https://github.com/chaosconstruct/ABM) - No description, website, or topics provided. - 0 stars
 * [Cairo](https://github.com/Matthlib/Cairo) - No description, website, or topics provided. - 0 stars
 * [starknet_js_interaction](https://github.com/FilipLaurentiu/starknet_js_interaction) - No description, website, or topics provided. - 0 stars
