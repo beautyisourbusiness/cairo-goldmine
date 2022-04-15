@@ -120,6 +120,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [RYO](https://github.com/dopedao/RYO) - A modular game engine architecture for the StarkNet L2 roll-up. - 82 stars
 * [realms-contracts](https://github.com/BibliothecaForAdventurers/realms-contracts) - Realms Monorepo for Ethereum Contracts and Starknet contracts. - 22 stars
 * [tictactoe-on-starknet](https://github.com/guiltygyoza/tictactoe-on-starknet) - RL-driven agent playing tic-tac-toe on starknet against challengers. - 15 stars
+* [Ogame-Cairo](https://github.com/ametel01/Ogame-Cairo) - Ogame implementation written in cairo - 15 stars
 * [chess-cairo](https://github.com/greenlucid/chess-cairo) - A Cairo contract to play chess in Starknet. - 14 stars
 * [physics-puzzle-starknet](https://github.com/guiltygyoza/physics-puzzle-starknet) - Physics puzzle on StarkNet - 14 stars
 * [cryptsandcaverns](https://github.com/threepwave/cryptsandcaverns) - Crypts and Caverns monorepo - 12 stars
