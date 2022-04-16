@@ -71,6 +71,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo-math-64x61](https://github.com/influenceth/cairo-math-64x61) - Fixed point 64.61 math library for Cairo / Starknet - 27 stars
 * [cairo-math](https://github.com/pedrobeirao/cairo-math) - Smart contract Cairo library for advanced fixed-point math - 25 stars
 * [cairo-integer-types](https://github.com/bellissimogiorno/cairo-integer-types) - A library for bitwise integer types (e.g. int64 or uint32) in Cairo, with a test suite - 20 stars
+* [xoroshiro-cairo](https://github.com/milancermak/xoroshiro-cairo) - A xoroshiro128** pseudorandom number generator implementation in Cairo - 17 stars
 * [ratios_cairo](https://github.com/andrepn/ratios_cairo) - Repository that defines a cairo struct called ratio that represents a rational number, x/y where x and y are in z mod p. Defines several operations between ratios. - 9 stars
 * [Cairo-SafeMath](https://github.com/NethermindEth/Cairo-SafeMath) - No description, website, or topics provided. - 9 stars
 * [ff-cairo](https://github.com/EulerSmile/ff-cairo) - An Cairo implementation of finite field operations - 1 stars
@@ -161,6 +162,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starknet-dai-bridge](https://github.com/makerdao/starknet-dai-bridge) - StarkNet interpretation of DAI token and basic DAI bridge. - 60 stars
 * [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Complete StarkNet library in Rust stars - 50 stars
 * [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) - Argent X - 37 stars
+* [cairo-4626](https://github.com/milancermak/cairo-4626) - EIP 4626 in Cairo lang for Starknet - 36 stars
 * [fossil](https://github.com/OilerNetwork/fossil) - Fossil - Starknet-based State Verifier by Oiler - 28 stars
 * [starknet-modular-contracts-standard](https://github.com/auclantis/starknet-modular-contracts-standard) - A proposal for modular, upgradeable StarkNet contracts. Inspired by the Diamond Standard. - 27 stars
 * [web3-starknet-react](https://github.com/dhruvkelawala/web3-starknet-react) - A Starknet React Provider and Connectors inspired by web3-react library - 26 stars
