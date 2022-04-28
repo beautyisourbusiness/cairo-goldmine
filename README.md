@@ -75,6 +75,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [ratios_cairo](https://github.com/andrepn/ratios_cairo) - Repository that defines a cairo struct called ratio that represents a rational number, x/y where x and y are in z mod p. Defines several operations between ratios. - 9 stars
 * [Cairo-SafeMath](https://github.com/NethermindEth/Cairo-SafeMath) - No description, website, or topics provided. - 9 stars
 * [ff-cairo](https://github.com/EulerSmile/ff-cairo) - An Cairo implementation of finite field operations - 1 stars
+* [0xNonCents/multi-precision_cairo](https://github.com/0xNonCents/multi-precision_cairo) - Math of 384 bit numbers in pure cairo. Geared towards being used in ecc - 0 stars
 * [specialfunctions_cairo](https://github.com/abstractnull/specialfunctions_cairo) - Special functions of mathematical physics for Cairo-lang - 0 stars
 
 
