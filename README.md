@@ -245,6 +245,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starknet-onchain-oracle](https://github.com/Shard-Labs/starknet-onchain-oracle) - Cairo implementation of a POC on-chain oracle for Starknet, along with a sample Client contract and tests - 0 stars
 * [starknet-IoT-DAO](https://github.com/StarkWareHackathon/starknet-IoT-DAO) - No description, website, or topics provided. - 0 stars
 * [voting-starkware](https://github.com/vishnuc77/voting-starkware) - Interacting with voting contract deployed in goerli Starkware - 0 stars
+* [stark-mfer/cairo-contracts](https://github.com/stark-mfer/cairo-contracts) - Gradual Dutch Auction implementation in Cairo - 0 stars
 
 
 ## COMMUNITY
