@@ -45,6 +45,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [StarkWare](https://github.com/TokenFlowInsights/StarkTx) - StarkTx - StarkNet transactions decoder - 1 stars
 * [encodingutils](https://github.com/beautyisourbusiness/encodingutils) - Small utils for encoding/decoding - 1 stars
 * [starknet-stack](https://github.com/gaetbout/starknet-stack) - FIFO stack,install hardhat, and understand how to write tests - 1 stars
+* [gaetbout/huffman-coding](https://github.com/gaetbout/huffman-coding) - In this repository I'll try to implement the Huffman coding algorithm. This is a lossless compression algorithm. - 0 stars
 
 ## LIBS
 
