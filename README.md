@@ -53,7 +53,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo-lib](https://github.com/playoasis/cairo-lib) - Library for common cairo functions - 26 stars
 * [starknet-libs](https://github.com/sekai-studio/starknet-libs) - A set of librairies in Cairo for use on StarkNet - 24 stars
 * [caistring](https://github.com/topology-gg/caistring) - Working with strings in Cairo - 6 stars
-* [gaetbout/starknet-array-manipulation](https://github.com/gaetbout/starknet-array-manipulation) - Here is a simple lib to do some common array operations. - 5 stars
+* [starknet-array-manipulation](https://github.com/gaetbout/starknet-array-manipulation) - Here is a simple lib to do some common array operations. - 5 stars
 * [NIT-ZKP](https://github.com/BitanDor/NIT-ZKP) - Process text files in Cairo to check program attributes. - 0 stars
 * [starknet-cairo-util](https://github.com/codemedian/starknet-cairo-util) - Collection of snippets and libs written for Cairo - 0 stars
 * [starknet-libs](https://github.com/rajivpo/starknet-libs) - A set of librairies in Cairo for use on StarkNet - 0 stars
