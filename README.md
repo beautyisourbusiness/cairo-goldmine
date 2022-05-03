@@ -92,6 +92,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo-black-scholes](https://github.com/araghava/cairo-black-scholes) - Black-Scholes StarkNet Library - 36 stars
 * [black-scholes-cairo](https://github.com/0xNonCents/black-scholes-cairo) - No description, website, or topics provided. - 2 stars
 * [BlackScholes-cairo](https://github.com/Janmajayamall/BlackScholes-cairo) - This repository contains implementation of BlackScholes in Cairo and uses Lyra protocol's implementation as a reference. - 2 stars
+* [basic-solver](https://github.com/zoeAD/basic-solver) - A basic solver to find the optimal trading distribution between 3 given UniV2 style exchanges. - 2 stars
 * [blackscholes-starknet](https://github.com/achab/blackscholes-starknet) - No description, website, or topics provided. - 1 stars
 * [CRISP-cairo](https://github.com/08351ty/CRISP-cairo) - cairo implementation of CRISP by FrankieIsLost - 1 stars
 
