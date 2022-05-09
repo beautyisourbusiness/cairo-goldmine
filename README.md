@@ -47,6 +47,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starknet-stack](https://github.com/gaetbout/starknet-stack) - FIFO stack,install hardhat, and understand how to write tests - 1 stars
 * [gaetbout/huffman-coding](https://github.com/gaetbout/huffman-coding) - In this repository I'll try to implement the Huffman coding algorithm. This is a lossless compression algorithm. - 0 stars
 * [franalgaba/smartonnx](https://github.com/franalgaba/smartonnx) - Tool to convert a ONNX model to Cairo smart contract - 0 stars
+* [onlydustxyz/generator-starknet](https://github.com/onlydustxyz/generator-starknet) - This is a development platform to quickly generate, develop & deploy smart contract based applications on StarkNet.
 
 ## LIBS
 
