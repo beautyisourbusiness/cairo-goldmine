@@ -281,6 +281,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cava](https://github.com/dontpanicdao/cava) - A transcription of the Aave v2 Protocol to Cairolang for learning purposes. - 0 stars
 * [voting-starkware](https://github.com/ironsoul0/voting-starkware) - This repo shows how to connect your React app to StarkNet. - 0 stars
 * [starknet-compose](https://github.com/TimNooren/starknet-compose) - Exploration of Starknet and the Cairo language + tool to manage deployment of multiple contracts - 0 stars
+* [starklings](https://github.com/onlydustxyz/starklings) – Rustlings-like console tutorials for Cairo
 
 
 ## HACKATON
