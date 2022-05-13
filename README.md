@@ -262,6 +262,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 ## EDUCATIONAL RESOURCES
 
 * [cairomate](https://github.com/abigger87/cairomate) - Structured, dependable legos for starknet development. - 83 stars
+* [starklings](https://github.com/onlydustxyz/starklings) – Rustlings-like console tutorials for Cairo - 50 stars
 * [fullstack-starknet](https://github.com/sambarnes/fullstack-starknet) - Tutorials for on-ramping to StarkNet - 46 stars
 * [cairo-by-example](https://github.com/abigger87/cairo-by-example) - Verbosely Documented, Minimal Starknet Contract Examples. - 43 stars
 * [cairostarter](https://github.com/abigger87/cairostarter) - Forkable, Minimal Template for Starknet Projects. - 39 stars
