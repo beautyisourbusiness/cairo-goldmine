@@ -253,7 +253,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starkware-wallet](https://github.com/pedrouid/starkware-wallet) - Starkware Wallet Library - 2 stars
 * [dynamic_voting_system](https://github.com/udayj/dynamic_voting_system) - Dynamic voting system - 2 stars
 * [Kubri](https://github.com/irisdv/Kubri) - Kubri (Egyptian for Bridge) is an ERC-1155 bridge for Starknet - 2 stars
-* [ERC4610-Cairo] (https://github.com/ametel01/ERC4610-Cairo) - ERC-4610 is an extension of ERC-721 in Cairo - 2 stars
+* [ERC4610-Cairo](https://github.com/ametel01/ERC4610-Cairo) - ERC-4610 is an extension of ERC-721 in Cairo - 2 stars
 * [starkrelay] (https://git.tu-berlin.de/luckylee/starkrelay) - Relay for validating bitcoin blocks and adding them to ethereum smart contracts implemented in cairo - 1 stars
 * [aip-aave-starknet-phasei](https://github.com/eboadom/aip-aave-starknet-phasei) - Aave Improvement Proposal payload implementation for Phase I of Aave <> Starknet - 2 stars
 * [starknet](https://github.com/Starknet-php/starknet.php) - PHP package that allows you to interact with StarkNet L2 network - 2 stars
