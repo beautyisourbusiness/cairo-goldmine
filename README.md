@@ -17,6 +17,28 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 ## CONTENT
 
+* [Cairo Goldmine](#cairo-goldmine)
+  * [Tooling](#tooling)
+  * [Libs](#libs)
+    * [Cryptography](#cryptography)
+    * [Math](#math)
+    * [Data structures and Algorithms](#data-structures-and-algorithms)
+    * [Finance](#finance)
+    * [Physics](#physics)
+    * [Computer graphics](#computer-graphics)
+  * [Editors](#editors)
+  * [Compilers Transpilers](#compilers-transpilers)
+  * [Gaming](#gaming)
+  * [Starknet](#starknet)
+  * [Community](#community)
+  * [Educational resources](#educational-resources)
+    * [Tutorials](#tutorials)
+    * [Hackaton](#hackaton)
+    * [Exercises](#exercises)
+  * [Misc](#misc)
+  
+----
+
 
 ## TOOLING
 
