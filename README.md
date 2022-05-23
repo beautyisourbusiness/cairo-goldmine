@@ -75,6 +75,9 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starknet-hardhat-lab-1](https://github.com/timPrachasri/starknet-hardhat-lab-1) - Advanced Sample Hardhat Project - 0 stars
 * [simps](https://github.com/socol-labs/simps.app) - Monorepo for StarkNet Improvement Projects (SIMPs) platform - 0 stars
 * [gaetbout/huffman-coding](https://github.com/gaetbout/huffman-coding) - In this repository I'll try to implement the Huffman coding algorithm. This is a lossless compression algorithm. - 0 stars
+* [hardhat-starknet-compile](https://github.com/playmint/hardhat-starknet-compile) - Hardhat plugin for automatically and intelligently compiling StarkNet contracts - 0 stars
+* [hardhat-starknetjs](https://github.com/playmint/hardhat-starknetjs) - Hardhat plugin which integrates StarkNet.js to allow deploying and interacting with StarkNet contracts from Hardhat projects - 1 star
+* [Zem](https://github.com/anders-torbjornsen/zem) - A deployment system for Hardhat which supports EVM and StarkNet contracts - 3 stars
 
 ## LIBS
 
