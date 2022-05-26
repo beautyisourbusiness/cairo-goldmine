@@ -42,12 +42,12 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 ## TOOLING
 
-* [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK Rollup - 375 stars
-* [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo - 204 stars
-* [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - A plugin for integrating Starknet tools into Hardhat projects - 94 stars
-* [starknet](https://github.com/software-mansion/starknet.py) - Python SDK for StarkNet. - 92 stars
-* [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - A local testnet for Starknet - 80 stars
-* [protostar](https://github.com/software-mansion/protostar) - Protostar is a toolchain for developing and testing with Cairo contracts for StarkNet - 76 stars
+* [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK Rollup - 401 stars
+* [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo - 218 stars
+* [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - A plugin for integrating Starknet tools into Hardhat projects - 102 stars
+* [starknet](https://github.com/software-mansion/starknet.py) - Python SDK for StarkNet. - 102 stars
+* [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - A local testnet for Starknet - 91 stars
+* [protostar](https://github.com/software-mansion/protostar) - Protostar is a toolchain for developing and testing with Cairo contracts for StarkNet - 81 stars
 * [cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) - Rust implementation of the Cairo VM - 74 stars
 * [amarna](https://github.com/crytic/amarna) - Amarna is a static-analyzer and linter for the Cairo programming language - 60 stars
 * [pytest-cairo](https://github.com/TimNooren/pytest-cairo) - pytest-cairo: pytest support for cairo-lang and starknet - 28 stars
@@ -198,7 +198,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [juno](https://github.com/NethermindEth/juno) - StarkNet client implementation. - 62 stars
 * [argent-contracts-starknet](https://github.com/argentlabs/argent-contracts-starknet) - Argent X - 42 stars
 * [fossil](https://github.com/OilerNetwork/fossil) - Fossil - Starknet-based State Verifier by Oiler - 40 stars
-* [starknet-multisig](https://github.com/eqlabs/starknet-multisig) - Multi-signature functionality for StarkNet - 40 stars
 * [starknet-multisig](https://github.com/eqlabs/starknet-multisig) - Multi-signature functionality for StarkNet - 40 stars
 * [cairo-4626](https://github.com/milancermak/cairo-4626) - EIP 4626 in Cairo lang for Starknet - 40 stars
 * [web3-starknet-react](https://github.com/dhruvkelawala/web3-starknet-react) - A Starknet React Provider and Connectors inspired by web3-react library - 30 stars
