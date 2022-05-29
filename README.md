@@ -72,7 +72,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairotest](https://github.com/bellissimogiorno/cairotest) - A test suite for Cairo based on PyTest and Hypothesis - 2 stars
 * [protostar-vs-nile](https://github.com/onlydustxyz/protostar-vs-nile) - comparing 2 development frameworks for starknet - 1 stars
 * [starknet-stack](https://github.com/gaetbout/starknet-stack) - FIFO stack,install hardhat, and understand how to write tests - 1 stars
-* [sambarnes/protostar-toolchain](https://github.com/sambarnes/protostar-toolchain) - a GitHub Action to install Protostar for StarkNet projects - 1 stars
+* [protostar-toolchain](https://github.com/sambarnes/protostar-toolchain) - a GitHub Action to install Protostar for StarkNet projects - 1 stars
 * [starknet-hardhat-lab-1](https://github.com/timPrachasri/starknet-hardhat-lab-1) - Advanced Sample Hardhat Project - 0 stars
 * [simps](https://github.com/socol-labs/simps.app) - Monorepo for StarkNet Improvement Projects (SIMPs) platform - 0 stars
 * [gaetbout/huffman-coding](https://github.com/gaetbout/huffman-coding) - In this repository I'll try to implement the Huffman coding algorithm. This is a lossless compression algorithm. - 0 stars
