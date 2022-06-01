@@ -114,6 +114,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 * [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) - Showing it is possible to run neural network inference on StarkNet. - 47 stars
 * [cairo-bloom](https://github.com/sambarnes/cairo-bloom) - A naive bloom filter implementation in Cairo - 22 stars
+* [cairo-streams](https://github.com/onlydustxyz/cairo-streams) - Array stream library written in pure Cairo - 22 stars
 
 ## FINANCE
 
