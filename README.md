@@ -123,7 +123,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [ff-cairo](https://github.com/EulerSmile/ff-cairo) - An Cairo implementation of finite field operations - 7 stars
 * [specialfunctions_cairo](https://github.com/abstractnull/specialfunctions_cairo) - Special functions of mathematical physics for Cairo-lang - 6 stars
 * [multi-precision_cairo](https://github.com/0xNonCents/multi-precision_cairo) - Math of 384 bit numbers in pure cairo. Geared towards being used in ecc - 5 stars
-* [0xNonCents/multi-precision_cairo](https://github.com/0xNonCents/multi-precision_cairo) - Math of 384 bit numbers in pure cairo. Geared towards being used in ecc - 5 stars
 * [shortest-path-faster-cairo](https://github.com/AdeptusDigitales/shortest-path-faster-cairo) - Cairo implementation of the Shortest Path Faster algorithm - 3 stars
 * [DecimalToBinary](https://github.com/smchala/DecimalToBinary) - Starknet smart contract converting decimal to binary - 0 stars
 
@@ -357,7 +356,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [starknet-tx-hash-demo](https://github.com/hubsmoke/starknet-tx-hash-demo) - This repo demonstrates an important StarkNet concept with regard to transaction hashes and how they are processed by StarkNet Alpha v4. - 3 stars
 * [cairopal](https://github.com/sambarnes/cairopal) - Modern, Flexible Starknet Dapp Template - 3 stars
 * [perama-v](https://github.com/perama-v/perama-v.github.io) - No description, website, or topics provided. - 2 stars
-* [Starknet-AMM](https://github.com/bitnician/Starknet-AMM) - A clone of Uniswap v2 built on Ethereum ZK-Rollup L2 (starknet) - 1 stars
 * [starknet-compose](https://github.com/TimNooren/starknet-compose) - Exploration of Starknet and the Cairo language + tool to manage deployment of multiple contracts - 0 stars
 * [voting-starkware](https://github.com/ironsoul0/voting-starkware) - This repo shows how to connect your React app to StarkNet. - 0 stars
 * [cairo_starter](https://github.com/rrzhang139/cairo_starter) - Forkable, Minimal Template for Starknet Projects. - 0 stars
@@ -384,14 +382,12 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 ## EXERCISES
 
 * [starknet-playground](https://github.com/exp-table/starknet-playground) - My playgrounderino for starkneterino - 13 stars
-* [starkware-demo](https://github.com/katien/starkware-demo) - No description, website, or topics provided. - 13 stars
 * [experiments-in-cairo](https://github.com/milancermak/experiments-in-cairo) - A Cairo playground - 9 stars
 * [cairo-learning](https://github.com/miguelmota/cairo-learning) - Cairo lang learning notes - 8 stars
 * [starknet-philand](https://github.com/Nysm-Inc/starknet-philand) - test code for building - 5 stars
 * [cairo_exercises](https://github.com/guiltygyoza/cairo_exercises) - No description, website, or topics provided. - 5 stars
 * [viscus](https://github.com/a5f9t4/viscus) - A minimalist starknet amm adapted from StarkWare's amm. - 4 stars
 * [StarknetGerald](https://github.com/GeraldHost/StarknetGerald) - Messing around with Starknet contracts - 4 stars
-* [starknet-hardhat-typescript-example](https://github.com/ccarnino/starknet-hardhat-typescript-example) - TypeScript Example (generated from ccarnino/starknet-hardhat-typescript-example) - 4 stars
 * [cairo-playground](https://github.com/barrasso/cairo-playground) - Solved challenges from the Cairo Playground - 3 stars
 * [cairo-tuto](https://github.com/greged93/cairo-tuto) - Tutorial of the cairo language - 3 stars
 * [cairo_programs](https://github.com/maheshmurthy/cairo_programs) - No description, website, or topics provided. - 2 stars
