@@ -292,7 +292,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [Kubri](https://github.com/irisdv/Kubri) - Kubri (Egyptian for Bridge) is an ERC-1155 bridge for Starknet - 3 stars
 * [ERC4610-Cairo](https://github.com/ametel01/ERC4610-Cairo) - ERC-4610 is an extension of ERC-721 in Cairo - 3 stars
 * [starknet_l2_contract](https://github.com/web3-byoa/starknet_l2_contract) - Mallows / BYOA Layer 2 Configuration Contract - 3 stars
-* [cairosploit](https://github.com/a5f9t4/cairosploit) - Working Repository for Starknet Contract Exploits - 3 stars
 * [suez](https://github.com/agolajko/suez) - A bridge between Ethereum and Starknet. - 3 stars
 * [starkware-wallet](https://github.com/pedrouid/starkware-wallet) - Starkware Wallet Library - 2 stars
 * [aip-aave-starknet-phasei](https://github.com/eboadom/aip-aave-starknet-phasei) - Aave Improvement Proposal payload implementation for Phase I of Aave <> Starknet - 2 stars
@@ -386,7 +385,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo-learning](https://github.com/miguelmota/cairo-learning) - Cairo lang learning notes - 8 stars
 * [starknet-philand](https://github.com/Nysm-Inc/starknet-philand) - test code for building - 5 stars
 * [cairo_exercises](https://github.com/guiltygyoza/cairo_exercises) - No description, website, or topics provided. - 5 stars
-* [viscus](https://github.com/a5f9t4/viscus) - A minimalist starknet amm adapted from StarkWare's amm. - 4 stars
 * [StarknetGerald](https://github.com/GeraldHost/StarknetGerald) - Messing around with Starknet contracts - 4 stars
 * [cairo-playground](https://github.com/barrasso/cairo-playground) - Solved challenges from the Cairo Playground - 3 stars
 * [cairo-tuto](https://github.com/greged93/cairo-tuto) - Tutorial of the cairo language - 3 stars
