@@ -335,6 +335,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more - 684 stars
 * [starknet-libs](https://github.com/ZkPad-Labs/starknet-libs) - The ZkPad team will make sure to maintain a curated list of useful libraries to develop on Starknet - 33 stars
 * [starknet-ecosystem](https://github.com/419Labs/starknet-ecosystem.com) - starkNet L2 Ecosystem Dashboard - 26 stars
+* [cairo gang](https://t.me/+XUKxiUisflE0MTRk) – Telegram group for Cairo Developers
 
 ## EDUCATIONAL RESOURCES
 
