@@ -444,7 +444,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo_tutorials_done](https://github.com/d-s-i/cairo_tutorials_done) - No description, website, or topics provided. - 0 stars
 * [erc1155-cairo-implementation](https://github.com/0xmerkle/erc1155-cairo-implementation) - writing this to have reference for future projects - 0 stars
 * [cairo_works](https://github.com/owanikin/cairo_works) - No description, website, or topics provided. - 0 stars
-* [CairoIntroduction](https://github.com/msaug/CairoIntroduction) - Personal notes on Introduction to Cairo, with (my) exercises correction - 0 stars
 * [cairo-tutorial](https://github.com/Lev-Stambler/cairo-tutorial) - No description, website, or topics provided. - 0 stars
 * [cairo](https://github.com/ocrybit/cairo) - solving Cairo exercises - 0 stars
 * [Cairo-Lang-init](https://github.com/drcapybara/Cairo-Lang-init) - No description, website, or topics provided. - 0 stars
