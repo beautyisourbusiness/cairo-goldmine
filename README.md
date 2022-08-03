@@ -399,6 +399,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 ## EXERCISES
 
 * [starknet-playground](https://github.com/exp-table/starknet-playground) - My playgrounderino for starkneterino - 13 stars
+* [starknet.js-workshop](https://github.com/0xs34n/starknet.js-workshop) - Account and ERC20 Demo for Starknet.js -12 stars
 * [experiments-in-cairo](https://github.com/milancermak/experiments-in-cairo) - A Cairo playground - 9 stars
 * [cairo-learning](https://github.com/miguelmota/cairo-learning) - Cairo lang learning notes - 8 stars
 * [cairo_exercises](https://github.com/guiltygyoza/cairo_exercises) - No description, website, or topics provided. - 6 stars
