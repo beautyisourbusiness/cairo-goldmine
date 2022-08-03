@@ -44,6 +44,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 * [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts) - OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK Rollup - 494 stars
 * [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet projects written in Cairo - 258 stars
+* [starknet.js](https://github.com/0xs34n/starknet.js) - JavaScript library for StarkNet - 238 stars
 * [cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) - Rust implementation of the Cairo VM - 151 stars
 * [protostar](https://github.com/software-mansion/protostar) - Protostar is a toolchain for developing and testing with Cairo contracts for StarkNet - 136 stars
 * [starknet.py](https://github.com/software-mansion/starknet.py) - Python SDK for StarkNet. - 129 stars
