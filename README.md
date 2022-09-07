@@ -48,6 +48,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cleopatra_cairo](https://github.com/lambdaclass/cleopatra_cairo) - Rust implementation of the Cairo VM - 151 stars
 * [protostar](https://github.com/software-mansion/protostar) - Protostar is a toolchain for developing and testing with Cairo contracts for StarkNet - 136 stars
 * [starknet.py](https://github.com/software-mansion/starknet.py) - Python SDK for StarkNet. - 129 stars
+* [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - SDK for JVM languages (java, kotlin and others). - 5 stars
 * [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - A plugin for integrating Starknet tools into Hardhat projects - 119 stars
 * [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - A local testnet for Starknet - 115 stars
 * [amarna](https://github.com/crytic/amarna) - Amarna is a static-analyzer and linter for the Cairo programming language - 86 stars
