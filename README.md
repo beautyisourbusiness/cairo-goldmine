@@ -343,6 +343,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [vat-starknet](https://github.com/achab/vat-starknet) - Vat contract written in Cairo - 0 stars
 * [cairopen-python](https://github.com/CairOpen/cairopen-python) - Python utilities for StarkNet interaction, linked to CairOpen Cairo lib contracts - 0 stars
 * [starknet-zkgraph-protocol](https://gitlab.com/zk-graph/starknet-zkgraph-protocol) - StarkNet based Lens Protocol compatible social graph with ZK security features. - 0 stars
+* [empiric-network](https://github.com/42labs/Empiric) - Leading StarkNet-native oracle, live with 20+ price feeds
 
 ## COMMUNITY
 
