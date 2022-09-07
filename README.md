@@ -224,7 +224,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 
 * [argent-x](https://github.com/argentlabs/argent-x) - Argent X - 297 stars
 * [pathfinder](https://github.com/eqlabs/pathfinder) - A Starknet full node written in Rust - 262 stars
-* [starknet](https://github.com/0xs34n/starknet.js) - JavaScript library for StarkNet - 236 stars
 * [starknet-react](https://github.com/auclantis/starknet-react) - A collection of React providers and hooks for StarkNet - 142 stars
 * [juno](https://github.com/NethermindEth/juno) - StarkNet client implementation. - 98 stars
 * [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Complete StarkNet library in Rust stars - 95 stars
