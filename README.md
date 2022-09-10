@@ -403,7 +403,6 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairopal](https://github.com/sambarnes/cairopal) - Modern, Flexible Starknet Dapp Template - 3 stars
 * [points-migrator](https://github.com/starknet-edu/points-migrator) - migrate the tutorial points to another wallet - 2 stars
 * [perama-v](https://github.com/perama-v/perama-v.github.io) - No description, website, or topics provided. - 2 stars
-* [perama-v](https://github.com/perama-v/perama-v.github.io) - No description, website, or topics provided. - 2 stars
 * [starknet-data-availability-cost](https://github.com/lucadonnoh/starknet-data-availability-cost) - calculates the cost of data availability in StarkNet - 2 stars
 * [starknet-erc721-protostar](https://github.com/dpinones/starknet-erc721-protostar) - ERC721 tutorial adapted to Protostar - 0 stars
 * [voting-starkware](https://github.com/ironsoul0/voting-starkware) - This repo shows how to connect your React app to StarkNet. - 0 stars
