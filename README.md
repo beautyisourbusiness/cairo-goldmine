@@ -36,6 +36,7 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
     * [Tutorials](#tutorials)
     * [Hackaton](#hackaton)
     * [Exercises](#exercises)
+    * [Security](#security)
   * [Misc](#misc)
   
 ----
@@ -485,6 +486,11 @@ Visit us frequently, our ecosystem is growing exponentially... don't miss a thin
 * [cairo-stark-learning](https://github.com/Shr1ftyy/cairo-stark-learning) - learning about cairo and starknet deployments - 0 stars
 * [StarkNet-Voting-Workshop](https://github.com/0xNonCents/StarkNet-Voting-Workshop) - No description, website, or topics provided. - 0 stars
 * [multisig-wallet-starknet](https://github.com/eth-hackathon/multisig-wallet-starknet) - smart contract account manage by multiple - 0 stars
+
+## SECURITY
+
+* [Cairo and StarkNet Security](https://github.com/ctrlc03/ctrlc03.github.io) - Cairo and StarkNet Security - 9 stars
+* [cairo-paradigm-ctf](https://github.com/amanusk/cairo-paradigm-ctf) - Paradigm Cairo CTFs Solutions - 8 stars
 
 ## MISC
 
